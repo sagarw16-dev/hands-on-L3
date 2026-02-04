@@ -1,0 +1,1 @@
+This project is part of my Cloud Computing coursework. The goal was to set up a microservice environment where a Python web app talks to a Redis database for counting page views, plus running a separate PostgreSQL database.
