@@ -18,7 +18,7 @@ To run this application, follow these steps:
 * Troubleshooting: Identified intentional errors in the provided Python code and Docker configuration and fixed them to get the app running.
 * PostgreSQL: Practiced running a database container independently using the `docker run` command.
 
-## Error Log (Mandatory)
+## Error
 I encountered the following errors during the hands-on, which were logged in the GitHub Issues tab:
 * Python Syntax: Fixed the `import` statements in `app.py`.
 * Path Error: Fixed the `flask` executable error in the `Dockerfile` by using `python -m flask`.
